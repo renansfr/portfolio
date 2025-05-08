@@ -1,5 +1,8 @@
 import { ReactNode } from "react";
 
+import React from "react";
+import { Award, BookOpen, Cpu, Server } from "lucide-react";
+
 export type SectionType = "about" | "experience" | "skills" | "education" | "contact";
 
 export interface Skill {
@@ -24,12 +27,9 @@ export interface ContactInfo {
   location: string;
 }
 
-import React from "react";
-import { Award, BookOpen, Cpu, Server } from "lucide-react";
-
 export const CONTACT_INFO: ContactInfo = {
   email: "renan.s.frr@gmail.com",
-  phone: "+55 (48) 99672-9400",
+  phone: "+55 (41) 98711-8137",
   linkedin: "https://www.linkedin.com/in/renansfrr/",
   location: "Curitiba, Paraná, Brazil"
 };

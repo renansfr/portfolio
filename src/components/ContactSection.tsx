@@ -28,8 +28,8 @@ const ContactSection = () => {
     {
       icon: <Phone className="text-white" size={20} />,
       label: "Phone",
-      value: "+55 (48) 99672-9400",
-      href: "tel:+5548996729400"
+      value: "+55 (41) 98711-8137",
+      href: "tel:+5541987118137"
     },
     {
       icon: <Linkedin className="text-white" size={20} />,

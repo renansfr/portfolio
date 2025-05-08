@@ -26,7 +26,7 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-end">
             <div className="flex space-x-4 mb-4">
               <SocialLink href="mailto:renan.s.frr@gmail.com" icon={<Mail size={20} />} />
-              <SocialLink href="tel:+5548996729400" icon={<Phone size={20} />} />
+              <SocialLink href="tel:+5541987118137" icon={<Phone size={20} />} />
               <SocialLink href="https://www.linkedin.com/in/renansfrr/" icon={<Linkedin size={20} />} />
               <SocialLink href="https://github.com/renansfr" icon={<Github size={20} />} />
             </div>
