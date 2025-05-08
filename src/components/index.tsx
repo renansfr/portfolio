@@ -1,0 +1,10 @@
+export { default as Portfolio } from './Portfolio';
+export { default as HeroSection } from './HeroSection';
+export { default as Navigation } from './Navigation';
+export { default as AboutSection } from './AboutSection';
+export { default as ExperienceSection } from './ExperienceSection';
+export { default as SkillsSection } from './SkillsSection';
+export { default as EducationSection } from './EducationSection';
+export { default as ContactSection } from './ContactSection';
+export { default as Footer } from './Footer';
+export { default as SectionHeader } from './SectionHeader';
