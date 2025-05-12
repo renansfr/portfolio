@@ -105,6 +105,7 @@ const AboutSection = () => {
               "Vue.js",
               "React.js",
               "React native",
+              "Ruby on rails",
               "PostgreSQL",
               "MySQL",
               "SQL Server",

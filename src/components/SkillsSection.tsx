@@ -4,7 +4,7 @@ import SectionHeader from './SectionHeader';
 
 const SkillsSection = () => {
   const hardSkills = [
-    "JavaScript", "Vue.js", "React.js", "Node.js", 
+    "JavaScript", "Vue.js", "React.js", "Node.js", "Ruby on Rails",
     "React Native", "PostgreSQL", "MySQL", "SQL Server", 
     "AWS Services", "Azure DevOps", "Nest.js", "MongoDB"
   ];
