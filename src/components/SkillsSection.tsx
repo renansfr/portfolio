@@ -8,7 +8,7 @@ const SkillsSection = () => {
     { name: "Vue.js", level: 90 },
     { name: "React.js", level: 85 },
     { name: "Node.js", level: 85 },
-    { name: "React native", level: 75 },
+    { name: "React native", level: 80 },
     { name: "PostgreSQL", level: 90 },
     { name: "MySQL", level: 80 },
     { name: "SQL Server", level: 80 },
@@ -19,14 +19,15 @@ const SkillsSection = () => {
   ];
 
   const hardwareSkills = [
-    { name: "Empathy", level: 95 },
     { name: "Adaptability", level: 95 },
+    { name: "Creativity", level: 95 },
+    { name: "Empathy", level: 95 },
     { name: "Teamwork ", level: 90 },
-    { name: "Communication", level: 85 },
+    { name: "Communication", level: 90 },
+    { name: "Leadership", level: 90 },
     { name: "Approachability", level: 90 },
   ];
 
-  const iotTechnologies = ['Circuit Design', 'Sensors', 'Actuators', 'MQTT', 'Embedded C', 'PlatformIO', 'I2C', 'SPI'];
   const projectManagementTools = ['Git', 'JIRA', 'Agile', 'Scrum', 'Git lab', 'Git hub', 'Docker', 'CI/CD', 'Kubernetes', 'Azure DevOps'];
 
   return (
